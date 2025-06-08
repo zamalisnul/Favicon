@@ -9,7 +9,7 @@
       "purpose": "maskable"
     },
     {
-      "src": "/web-app-manifest-512x512.png",
+      "src": "https://raw.githubusercontent.com/zamalisnul/Favicon/refs/heads/main/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
