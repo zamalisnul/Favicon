@@ -3,7 +3,7 @@
   "short_name": "zamaL",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/zamalisnul/Favicon/bacf4a5c679d9215f86e192ef5402d7d08b5c44f/web-app-manifest-192x192.png",
+      "src": "https://raw.githubusercontent.com/zamalisnul/Favicon/refs/heads/main/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
